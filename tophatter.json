@@ -18,7 +18,7 @@
         "btn_more_url": "https://www.google.com/",
         "items_data": [{
                 "title": "What is Tophatter?",
-                "image": "https://m-imag.web.app/tophatter/1.jpg",
+                "image": "https://m-imag.web.app/tophatter/1.webp",
                 "title_size": "25",
 				"detail": [{
 					"image": "",
@@ -30,7 +30,7 @@
 				]
             }, {
                 "title": "Navigating Tophatter's Unique Platform",
-                "image": "https://m-imag.web.app/tophatter/2.jpg",
+                "image": "https://m-imag.web.app/tophatter/2.webp",
                 "title_size": "25",
  				"detail": [{
 					"image": "",
@@ -42,7 +42,7 @@
 				]
             }, {
                 "title": "Tips for Successful Bidding",
-                "image": "https://m-imag.web.app/tophatter/3.jpg",
+                "image": "https://m-imag.web.app/tophatter/3.webp",
                 "title_size": "25",
       			"detail": [{
 					"image": "",
@@ -66,7 +66,7 @@
 				]
             },{
                 "title": "Tophatter vs. Traditional Retailers",
-                "image": "https://m-imag.web.app/tophatter/5.jpg",
+                "image": "https://m-imag.web.app/tophatter/5.webp",
                 "title_size": "25",
                 "detail": [{
 					"image": "000000",
@@ -78,7 +78,7 @@
 				]
             },{
                 "title": "Shipping and Return Policies",
-                "image": "https://m-imag.web.app/tophatter/6.jpg",
+                "image": "https://m-imag.web.app/tophatter/6.webp",
                 "title_size": "25",
                 "detail": [{
 					"image": "000000",
@@ -90,7 +90,7 @@
 				]
             },{
                 "title": "Making the Most of Your Tophatter Experience",
-                "image": "https://m-imag.web.app/tophatter/7.jpg",
+                "image": "https://m-imag.web.app/tophatter/7.webp",
                 "title_size": "25",
                 "detail": [{
 					"image": "000000",
@@ -102,7 +102,7 @@
 				]
             },{
                 "title": "Conclusion:Why Tophatter is a Game Changer",
-                "image": "https://m-imag.web.app/tophatter/8.jpg",
+                "image": "https://m-imag.web.app/tophatter/8.webp",
                 "title_size": "25",
                 "detail": [{
 					"image": "000000",
