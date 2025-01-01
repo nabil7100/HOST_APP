@@ -1,0 +1,120 @@
+{
+    "Ads": {
+     	"enableAds": false,
+        "bannerAdType": "facebook",
+        "interstitialAdType": "facebook",
+        "nativeAdType": "facebook",
+        "admobBannerId": "ca-app-pub-3940256099942544/6300978111",
+        "admobInterstitialId": "ca-app-pub-3940256099942544/1033173712",
+        "admobNativeId": "ca-app-pub-3940256099942544/1044960115",
+        "facebookBannerId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebookInterstitialId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebookNativeId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "interstitialClickActivities": 6,
+        "interstitialClickList": 6
+    },
+
+    "Data": {
+        "btn_more_title": "More",
+        "btn_more_url": "https://www.google.com/",
+        "items_data": [{
+                "title": "What is Tophatter?",
+                "image": "https://m-imag.web.app/tophatter/1.webp",
+                "title_size": "25",
+				"detail": [{
+					"image": "",
+					"text": "Tophatter is an online auction platform that stands out in the world of e-commerce. It offers a unique blend of excitement and value, where products from various categories go under the hammer, often at remarkably low prices. It's like a digital auction house open 24/7, accessible right from your device. \n \n The Allure of Closeout Deals \n \n Closeout deals are Tophatter's specialty. These are products from overstocked inventory or end-of-season sales, offered at significantly reduced prices. Imagine getting high-quality items for a fraction of their original cost – it's like a clearance sale on steroids!",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Navigating Tophatter's Unique Platform",
+                "image": "https://m-imag.web.app/tophatter/2.webp",
+                "title_size": "25",
+ 				"detail": [{
+					"image": "",
+					"text": "Navigating Tophatter's platform is like embarking on a treasure hunt. Each auction is quick, usually lasting just a few minutes, so it's a race against time and other bidders. But fear not, the site is user-friendly, and with a bit of practice, you'll be bidding like a pro. \n \n Top Categories in Tophatter Closeouts \n \n From electronics to fashion, Tophatter's closeout deals span a wide range of categories. You can find almost anything here, often at prices that seem too good to be true. But hurry, these deals don't last long!",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Tips for Successful Bidding",
+                "image": "https://m-imag.web.app/tophatter/3.webp",
+                "title_size": "25",
+      			"detail": [{
+					"image": "",
+					"text": "Want to win big? Here are some tips for successful bidding: start with a strategy, set a budget, and be ready to make quick decisions. Remember, the early bird catches the worm! \n \n The Excitement of Live Auctions \n \n Live auctions on Tophatter are exhilarating. The thrill of competing with others in real-time adds an element of fun and unpredictability. It's not just shopping; it's an experience!",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Maximizing Savings: Strategies & Tricks",
+                "image": "https://m-imag.web.app/tophatter/4.webp",
+                "title_size": "25",
+          		"detail": [{
+					"image": "",
+					"text": "To maximize your savings, learn the ins and outs of Tophatter's auction dynamics. Keep an eye on patterns, use watchlists, and don't be afraid to walk away if the price goes beyond your comfort zone. \n \n Customer Stories: Winning Big \n \n Hear from customers who have won big on Tophatter. Their stories are not just inspiring but also provide insights into effective bidding strategies.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            },{
+                "title": "Tophatter vs. Traditional Retailers",
+                "image": "https://m-imag.web.app/tophatter/5.webp",
+                "title_size": "25",
+                "detail": [{
+					"image": "000000",
+					"text": "Comparing Tophatter with traditional retailers reveals stark differences. The dynamic, fast-paced environment of Tophatter offers a unique and exciting way to shop that traditional retailers simply can't match. \n \n The Future of Online Shopping \n \n Tophatter is at the forefront of redefining online shopping. With its unique approach, it's paving the way for a new era of e-commerce that's more interactive and enjoyable.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            },{
+                "title": "Shipping and Return Policies",
+                "image": "https://m-imag.web.app/tophatter/6.webp",
+                "title_size": "25",
+                "detail": [{
+					"image": "000000",
+					"text": "Understanding Tophatter's shipping and return policies is crucial. This section provides all the details you need to shop with confidence. \n \n Safety and Security on Tophatter \n \n Safety and security are paramount on Tophatter. Learn how the platform ensures a safe and reliable shopping experience for its users.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            },{
+                "title": "Making the Most of Your Tophatter Experience",
+                "image": "https://m-imag.web.app/tophatter/7.webp",
+                "title_size": "25",
+                "detail": [{
+					"image": "000000",
+					"text": "Get tips on how to make the most of your Tophatter experience. From setting up alerts to understanding the bidding process, this section has you covered. \n \n Tophatter in the Community \n \n Discover how Tophatter contributes to the community. From charitable events to supporting local businesses, Tophatter is more than just an auction site.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            },{
+                "title": "Conclusion:Why Tophatter is a Game Changer",
+                "image": "https://m-imag.web.app/tophatter/8.webp",
+                "title_size": "25",
+                "detail": [{
+					"image": "000000",
+					"text": "in conclusion, Tophatter is revolutionizing the way we shop online. With its exciting auction format, incredible deals, and wide range of products, it's not just a shopping destination but an adventure.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }
+
+        ]
+    }
+}
